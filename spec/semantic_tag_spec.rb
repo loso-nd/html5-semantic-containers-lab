@@ -1,4 +1,4 @@
-require 'pry'
+require 'pry' 
 
 RSpec.describe 'index.html' do
 
